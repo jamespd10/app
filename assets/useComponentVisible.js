@@ -1,0 +1,1 @@
+import{r as t}from"./index.js";const u=n=>{const[c,r]=t.exports.useState(n),e=t.exports.useRef(null),s=o=>{e.current&&!e.current.contains(o.target)&&r(!1)};return t.exports.useEffect(()=>(document.addEventListener("click",s,!0),()=>{document.removeEventListener("click",s,!0)}),[]),{ref:e,visible:c,setVisible:r}};export{u};

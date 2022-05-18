@@ -1,0 +1,1 @@
+import{_ as u}from"./useAsyncRetry.js";import"./index.js";import"./jwt-decode.esm.js";import{u as m}from"./useHttpService.js";const y=({url:r,method:t,data:e,params:s})=>{const o=m(),{loading:a,value:i,error:c,retry:n}=u(async()=>await o({url:r,method:t,data:e,params:s}),[]);return{loading:a,value:i,error:c,retry:n}};export{y as u};

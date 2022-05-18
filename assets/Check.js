@@ -1,0 +1,1 @@
+import{c as r,i as a,r as t}from"./jsx-runtime_commonjs-proxy.js";import"./index.js";var e={},u=a.exports;Object.defineProperty(e,"__esModule",{value:!0});var o=e.default=void 0,i=u(r),l=t,d=(0,i.default)((0,l.jsx)("path",{d:"M9 16.17 4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"}),"Check");o=e.default=d;export{o as d};
