@@ -1,1 +1,0 @@
-const a="https://www.cheungasociados.com/backend/api",s="/app",t="ALAOp4-Oi7zdZGGykqqLfGjRH0Atb-danUzn34qCtqGwJDH1hdbhVmerw9sPw2qKgCMa2vaOseBYMfDgnhi-0atPEZuLhn1ncxzS",n="jj4dxfxoh5ywxu6979gpugl72t07rw4wop50i85xctzflgi9";export{t as A,a as B,s as O,n as T};

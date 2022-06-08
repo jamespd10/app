@@ -1,1 +1,1 @@
-const e="_speedDial_153dq_1";var s={speedDial:e};export{s};
+const e="_speedDial_2t7x3_1";var s={speedDial:e};export{s};
