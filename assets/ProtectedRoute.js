@@ -1,1 +1,1 @@
-import{a as u,a9 as f}from"./index.js";const l=({isLoggedIn:e,typeUser:t,permission:a,children:r})=>e&&!t&&!a||e&&t&&a&&t===a?r:u(f,{to:"/signin"});export{l as default};
+import{a as f,a9 as e}from"./index.js";const l=({isLoggedIn:u,typeUser:a,permission:t,children:r})=>u&&!a&&!t?r:u&&a&&t?Array.isArray(t)&&t.includes(a)||a===t?r:f(e,{to:"/signin"}):f(e,{to:"/signin"});export{l as default};
