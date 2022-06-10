@@ -1,1 +1,1 @@
-import{aH as s,a}from"./index.js";const n=()=>{const{fetcher:e}=s("/admin/asignados"),[,,o]=e;return console.log({data:o}),a("div",{children:"Table"})},r=()=>a("div",{children:a(n,{})});export{r as default};
+import{aI as s,a}from"./index.js";const n=()=>{const{fetcher:e}=s("/admin/asignados"),[,,o]=e;return console.log({data:o}),a("div",{children:"Table"})},r=()=>a("div",{children:a(n,{})});export{r as default};
