@@ -1,1 +1,1 @@
-import{o as r}from"./index.js";const e=()=>{const a=r();return{queryParams:new URLSearchParams(a.search)}};export{e as u};
+import{a8 as r}from"./index.js";const o=()=>{const a=r();return{queryParams:new URLSearchParams(a.search)}};export{o as u};

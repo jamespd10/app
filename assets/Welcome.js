@@ -1,1 +1,1 @@
-import{L as a}from"./logo_completo.js";import{O as m,V as t,a as r}from"./index.js";const c=()=>{const o=m(),e=t(o.breakpoints.down("lg")),s=t(o.breakpoints.down("sm"));return r("img",{src:a,alt:"Logo",style:{width:"100%",height:s?200:"100%",marginBottom:e?10:void 0}})};export{c as default};
+import{L as a}from"./logo_completo.js";import{m,a0 as t,a as r}from"./index.js";const c=()=>{const o=m(),e=t(o.breakpoints.down("lg")),s=t(o.breakpoints.down("sm"));return r("img",{src:a,alt:"Logo",style:{width:"100%",height:s?200:"100%",marginBottom:e?10:void 0}})};export{c as default};

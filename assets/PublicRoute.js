@@ -1,1 +1,1 @@
-import{a,a9 as r}from"./index.js";const s=({isLoggedIn:e,children:t})=>e?a(r,{to:"/",replace:!0}):t;export{s as default};
+import{a as r,$ as a}from"./index.js";const s=({isLoggedIn:e,children:t})=>e?r(a,{to:"/",replace:!0}):t;export{s as default};

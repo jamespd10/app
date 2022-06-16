@@ -1,1 +1,1 @@
-import{a as s,G as a,_ as o,g as u}from"./index.js";function f(e){return e==null||Object.keys(e).length===0}function r(e){const{styles:t,defaultTheme:n={}}=e;return s(a,{styles:typeof t=="function"?l=>t(f(l)?n:l):t})}function i(e){return s(r,o({},e,{defaultTheme:u}))}export{i as G};
+import{a as s,G as a,_ as o,d as u}from"./index.js";function f(e){return e==null||Object.keys(e).length===0}function r(e){const{styles:t,defaultTheme:n={}}=e;return s(a,{styles:typeof t=="function"?l=>t(f(l)?n:l):t})}function d(e){return s(r,o({},e,{defaultTheme:u}))}export{d as G};

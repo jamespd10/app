@@ -1,1 +1,1 @@
-import{h as e,k as s}from"./index.js";function l(t){return e("MuiListItemText",t)}const i=s("MuiListItemText",["root","multiline","dense","inset","primary","secondary"]);var r=i;export{l as g,r as l};
+import{g as e,e as s}from"./index.js";function l(t){return e("MuiListItemText",t)}const i=s("MuiListItemText",["root","multiline","dense","inset","primary","secondary"]);var r=i;export{l as g,r as l};
