@@ -1,1 +1,0 @@
-import{r as w}from"./index.js";w.exports.createContext({});function n(e){this.message=e}n.prototype=new Error,n.prototype.name="InvalidCharacterError";typeof window!="undefined"&&window.atob&&window.atob.bind(window);function d(e){this.message=e}d.prototype=new Error,d.prototype.name="InvalidTokenError";
