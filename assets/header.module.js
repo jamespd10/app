@@ -1,0 +1,1 @@
+const o="_container_1ci6y_1",e="_error_1ci6y_12",s="_negocio_1ci6y_20",c="_message_1ci6y_27",_="_totales_1ci6y_45",t="_flexRow_1ci6y_54";var n={container:o,error:e,negocio:s,message:c,totales:_,flexRow:t};export{n as s};

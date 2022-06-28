@@ -1,1 +1,0 @@
-import{C as o}from"./CustomDecimal.js";import{T as e}from"./TextInput.js";import{a as s}from"./index.js";const a=({label:t,value:r})=>s(e,{label:t,fullWidth:!0,required:!0,disabled:!0,size:"small",value:r,InputProps:{inputComponent:o}});export{a as T};
