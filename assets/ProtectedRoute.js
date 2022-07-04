@@ -1,1 +1,1 @@
-import{a as f,$ as e}from"./index.js";const l=({isLoggedIn:u,typeUser:a,permission:t,children:r})=>u&&!a&&!t?r:u&&a&&t?Array.isArray(t)&&t.includes(a)||a===t?r:f(e,{to:"/signin"}):f(e,{to:"/signin"});export{l as default};
+import{r as o,A as a,a as r,$ as n}from"./index.js";const c=({permission:i,children:t})=>{const{authState:e}=o.exports.useContext(a),{isLoggedIn:s}=e;return s?t:r(n,{to:"/signin"})};export{c as default};
