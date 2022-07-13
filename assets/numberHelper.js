@@ -1,0 +1,1 @@
+const n="_container_1adex_1",t="_title_1adex_6",o="_money_1adex_7",r="_removePadding_1adex_15";var a={container:n,title:t,money:o,removePadding:r};const d=e=>Math.round((Number(e||0)+Number.EPSILON)*100)/100;export{d as r,a as s};
