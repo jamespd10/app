@@ -1,1 +1,1 @@
-const l=(e,h)=>{const p=[];let s=[];for(let t=0;t<e.length;t++)s.push(e[t]),t>0&&(t+1)%h===0&&(p.push(s),s=[]),t===e.length-1&&(t+1)%h!==0&&p.push(s);return p};export{l as s};
+const l=(t,n)=>{const e=[];let h=[];for(let s=0;s<t.length;s++)h.push(t[s]),s>0&&(s+1)%n===0&&(e.push(h),h=[]),s===t.length-1&&(s+1)%n!==0&&e.push(h);return e},c=(t,n)=>{try{if(t.length<=0)return[];const e=[];for(;t.length;)e.push(t.splice(0,n));return e}catch{return[]}};export{l as a,c as s};

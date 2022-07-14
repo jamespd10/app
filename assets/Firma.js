@@ -1,0 +1,1 @@
+import{a}from"./index.js";const s="_firma_1qcxo_1",i="_spanFirma_1qcxo_6";var r={firma:s,spanFirma:i};const n=()=>a("div",{className:r.firma,children:a("span",{className:r.spanFirma,children:"RECIBI CONFORME"})});export{n as default};
