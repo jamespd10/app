@@ -1,1 +1,1 @@
-var o="/app/assets/logo_completo.svg";export{o as I};
+var o="/app/assets/logo_completo.svg";export{o as L};

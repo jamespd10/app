@@ -1,1 +1,1 @@
-const e="_container_1e19c_3",a="_fecha_1e19c_18",n="_spanDetalla_1e19c_22",c="_divHidden_1e19c_28";var t={container:e,fecha:a,spanDetalla:n,divHidden:c};export{t as s};
+const a="_container_1dqtf_3",n="_fecha_1dqtf_18",t="_spanDetalla_1dqtf_22",e="_divHidden_1dqtf_28";var d={container:a,fecha:n,spanDetalla:t,divHidden:e};export{d as s};
