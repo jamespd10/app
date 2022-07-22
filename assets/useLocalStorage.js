@@ -1,1 +1,0 @@
-import{r as s}from"./index.js";const c=e=>{const t=s.exports.useMemo(()=>localStorage.getItem(e),[]),[a,o]=s.exports.useState(t?JSON.parse(t):null);return[a,r=>{o(r),localStorage.setItem(e,JSON.stringify(r))},()=>{o(null),localStorage.removeItem(e)}]};export{c as u};
