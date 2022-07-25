@@ -1,1 +1,1 @@
-const u=r=>Math.round((Number(r||0)+Number.EPSILON)*100)/100;export{u as r};
+const e=r=>Math.round((Number(r||0)+Number.EPSILON)*100)/100,m=r=>{try{return new Intl.NumberFormat("es-PA",{minimumFractionDigits:2,maximumFractionDigits:2}).format(Number(r||0)).replace(/[^\d.]/g,"")}catch{return""}};export{e as r,m as t};

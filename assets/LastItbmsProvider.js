@@ -1,1 +1,1 @@
-import{u as r}from"./useFetcherEarly.js";import{r as o,aq as c,a as n}from"./index.js";const i=o.exports.createContext({}),x=({children:t})=>{const{id:s,cliente:e}=c(),a=r(`/admin/negocios/${s}/${e}/last-itbms`);return n(i.Provider,{value:a,children:t})};export{i as L,x as a};
+import{u as r}from"./useFetcherEarly.js";import{r as o,av as c,a as n}from"./index.js";const i=o.exports.createContext({}),x=({children:t})=>{const{id:s,cliente:e}=c(),a=r(`/admin/negocios/${s}/${e}/last-itbms`);return n(i.Provider,{value:a,children:t})};export{i as L,x as a};
